@@ -1,0 +1,10 @@
+# requirements.txt
+streamlit
+torch
+transformers
+pandas
+numpy
+tqdm
+groq
+sentence-transformers
+python-dotenv
